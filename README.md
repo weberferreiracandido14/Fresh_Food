@@ -12,7 +12,6 @@ O projeto foi desenvolvido com **HTML5, CSS3 e JavaScript puro**, priorizando de
 - **Animações de entrada:** cards e seções aparecem gradualmente ao rolar a página.  
 - **Efeito Parallax:** leve movimento da imagem principal conforme o scroll.  
 - **Página de Dietas (dietas.html):** descrição das principais dietas saudáveis (Mediterrânea, Equilibrada e Plant-Based).  
-- **Formulário de Contato:** simula envio de mensagem com alerta visual.  
 - **Design Clean e Profissional:** tipografia Poppins, ícones e cores suaves.  
 
 ---
