@@ -44,76 +44,13 @@ O projeto foi desenvolvido com **HTML5, CSS3 e JavaScript puro**, priorizando de
 
 ---
 
-## ⚙️ Como Executar o Projeto
+<img width="1582" height="754" alt="image" src="https://github.com/user-attachments/assets/7037cce0-8e6c-4520-8df3-f09772af9bdc" />
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/weberferreiracandido14/fresh-food.git
-````
-
-2. **Acesse a pasta do projeto:**
-
-   ```bash
-   cd fresh-food
-   ```
-
-3. **Abra o arquivo principal no navegador:**
-
-   * Clique duas vezes em `index.html`, **ou**
-   * Execute via servidor local:
-
-     ```bash
-     npx live-server
-     ```
-
-     *(ou use a extensão “Live Server” do VSCode)*
-
----
-
-## 📱 Layout Responsivo
-
-O design foi construído com **media queries** e **flex/grid layouts** para garantir boa usabilidade em:
-
-* Smartphones
-* Tablets
-* Monitores de alta resolução
-
----
-
-## ✨ Destaques do Código
-
-* **Efeitos de Scroll e Animação:**
-
-  * Implementados via `IntersectionObserver` no `script.js`:
-
-    ```js
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.style.opacity = '1';
-                entry.target.style.transform = 'translateY(0)';
-            }
-        });
-    });
-    ```
-
-* **Menu mobile dinâmico:**
-
-  * O botão *hamburger* alterna o menu em telas pequenas.
-
-* **Formulário Simulado:**
-
-  * Exibe mensagem de sucesso após “envio” para fins de demonstração.
-
----
-
-## 📸 Prévia
-
-**Página Inicial (`index.html`)**
 
 > Apresenta o banner principal com chamada para ação e seções de benefícios e dicas.
 
-**Página de Dietas (`dietas.html`)**
+<img width="1351" height="626" alt="image" src="https://github.com/user-attachments/assets/635578d8-ac76-4133-b5a0-3404ab6e253c" />
+
 
 > Mostra cards informativos sobre diferentes estilos de alimentação saudável.
 
