@@ -116,8 +116,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // correção do erro das abas > ainda abre diversas abas
-window.open('index.html#home');
-window.open('index.html#about');
-window.open('dietas.html#diets');
-window.open('index.html#tips');
-window.open('index.html#contact');
+window.open('index.html#home', 'Fresh Food - Seu guia de Alimentação Saudavél');
+window.open('index.html#about', 'Fresh Food - Seu guia de Alimentação Saudavél');
+window.open('dietas.html#diets', 'Fresh Food - Seu guia de Alimentação Saudavél');
+window.open('index.html#tips', 'Fresh Food - Seu guia de Alimentação Saudavél');
+window.open('index.html#contact', 'Fresh Food - Seu guia de Alimentação Saudavél');
