@@ -116,8 +116,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // correção do erro das abas > ainda abre diversas abas
-window.open('index.html#home', 'dietas.html#home');
-window.open('index.html#about', 'dietas.html#about');
-window.open('index.html#diets', 'dietas.html#diets');
-window.open('index.html#tips', 'dietas.html#tips');
-window.open('index.html#contact', 'dietas.html#contact');
+window.open('index.html#home', 'abaSecundaria');
+window.open('index.html#about', 'abaSecundaria');
+window.open('dietas.html#diets', 'abaSecundaria');
+window.open('index.html#tips', 'abaSecundaria');
+window.open('index.html#contact', 'abaSecundaria');
