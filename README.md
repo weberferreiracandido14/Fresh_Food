@@ -27,7 +27,6 @@ O projeto foi desenvolvido com **HTML5, CSS3 e JavaScript puro**, priorizando de
 ├── style.css            # Estilos globais, layout responsivo e componentes visuais
 ├── script.js            # Efeitos visuais, animações e interatividade
 ├── alimentos.png        # Logo do site (referência visual)
-├── prato.jpg, detox.jpg # Imagens principais utilizadas no layout
 └── upload/search_images/ # Pasta com imagens das dietas
 
 ````
